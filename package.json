@@ -1,0 +1,24 @@
+{
+  "name": "ria-discord-bot",
+  "version": "0.1.0",
+  "description": "A discord bot for the RIA",
+  "main": "main.js",
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "googleapis": "^19.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Baelyk/ria-discord-bot.git"
+  },
+  "author": "Baelyk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Baelyk/ria-discord-bot/issues"
+  },
+  "homepage": "https://github.com/Baelyk/ria-discord-bot#readme"
+}
