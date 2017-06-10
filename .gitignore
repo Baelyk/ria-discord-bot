@@ -58,5 +58,7 @@ typings/
 .env
 
 # secrets
-
 secrets.*
+
+# local
+data.json

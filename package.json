@@ -4,7 +4,8 @@
   "description": "A discord bot for the RIA",
   "main": "main.js",
   "dependencies": {
-    "discord.js": "^11.1.0"
+    "discord.js": "^11.1.0",
+    "fs-jetpack": "^1.0.0"
   },
   "devDependencies": {},
   "scripts": {
